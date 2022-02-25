@@ -6,6 +6,6 @@ a passionate, ambitious, and a self-motivated MERN-STACK developer 🧑‍💻  
 - 🔭 I’m currently working on my personal projects
 - 🌱 I’m currently learning testing by using Jest and React testing library. I am also interested to work with AWS and SQL databases.
 - 📫 You can directly reach me at nyinyihmueaung19@gmail.com whether to know about me or for any reasons.
-- ⚡ Fun fact: I watch FRIENDS tv show a lot. 😀😀😀😀😀😀
+
 
 
